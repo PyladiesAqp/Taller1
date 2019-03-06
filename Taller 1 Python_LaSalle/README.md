@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PyladiesAqp/Taller1/tree/master/Taller%201%20Python_LaSalle/master)
+En https://github.com/PyladiesAqp/Taller1 encontrará un enlace binder para levantar los archivos en Jupyter Notebook Online.
